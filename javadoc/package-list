@@ -1,0 +1,8 @@
+org.example.dao
+org.example.dao.impl
+org.example.entity
+org.example.entity.criteria
+org.example.main
+org.example.service
+org.example.service.impl
+org.example.service.validation
